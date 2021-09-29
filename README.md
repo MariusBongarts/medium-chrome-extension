@@ -1,6 +1,7 @@
 ## Medium article
 
-Repository for medium article [How To Build A Chrome Extension]().
+[How To Build A Chrome Extension](https://medium.com/@mariusbongarts11/how-to-build-a-chrome-extension-d165f5cde793).
+
 
 ```
 
